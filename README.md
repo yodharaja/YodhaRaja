@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&repeat=true&width=650&height=30&lines=%E2%96%B6+GATE+EE+AIR+120+%E2%80%A2+GATE+EC+AIR+622;%E2%96%B6+Chess+Rating+1700+ELO+%E2%99%9F;%E2%96%B6+Full-Stack+Developer;%E2%96%B6+JavaScript+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&repeat=true&width=650&height=30&lines=%E2%96%B6+GATE+EE+AIR+120+%E2%80%A2+GATE+EC+AIR+622;%E2%96%B6+Chess+Rating+1700+ELO+%E2%99%9F;%E2%96%B6+Full-Stack+Developer;%E2%96%B6+JavaScript+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+C%2B%2B" />
 
 </div>
 
