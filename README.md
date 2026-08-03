@@ -88,22 +88,6 @@
 
 <br/>
 
----
-
-## 🏰 JOIN THE PARTY
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/⚔️_GitHub-Join_Party-ffd700?style=for-the-badge&labelColor=1a1c2e)](https://github.com/YodhaRaja)
-[![Email](https://img.shields.io/badge/📧_Email-Send_Message-c0a0ff?style=for-the-badge&labelColor=1a1c2e)](mailto:purusottam@example.com)
-[![LinkedIn](https://img.shields.io/badge/🛡️_LinkedIn-Connect-48dbfb?style=for-the-badge&labelColor=1a1c2e)](https://linkedin.com/in/)
-
-</div>
-
----
-
-<div align="center">
-
 ```
 ╔══════════════════════════════════════════════════╗
 ║                                                  ║
