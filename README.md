@@ -20,7 +20,7 @@
 
 </div>
 
-#### 💻 Programming Languages
+### 💻 Programming Languages
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 </div>
 <br/>
 
-#### 🚀 Frameworks, Ecosystems & Tools
+### 🚀 Frameworks, Ecosystems & Tools
 
 <div align="center">
 
