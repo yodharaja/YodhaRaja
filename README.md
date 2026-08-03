@@ -16,7 +16,7 @@
 <div align="center">
   
 
-## 🛠️ TECHNICAL STACK & TOOLING
+## 🛠️ Technology Ecosystem
 
 </div>
 
