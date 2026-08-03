@@ -90,28 +90,6 @@
 
 ---
 
-<div align="center">
-
-## 📊 PLAYER STATS
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YodhaRaja&show_icons=true&hide_border=true&bg_color=1a1c2e&title_color=ffd700&icon_color=c0a0ff&text_color=d4c5ff&count_private=true&ring_color=ffd700" />
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YodhaRaja&layout=compact&hide_border=true&bg_color=1a1c2e&title_color=ffd700&text_color=d4c5ff&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YodhaRaja&hide_border=true&background=1A1C2E&ring=FFD700&fire=FF6B6B&currStreakLabel=C0A0FF&sideNums=D4C5FF&currStreakNum=FFD700&sideLabels=C0A0FF&dates=6e5494" />
-
-<br/><br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YodhaRaja&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/YodhaRaja)
-
-</div>
-
----
-
 ## 🏰 JOIN THE PARTY
 
 <div align="center">
