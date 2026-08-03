@@ -26,7 +26,7 @@
 
 <a href="#"><img src="https://skillicons.dev/icons?i=js,py,java,cpp,ts,html,css,kotlin&theme=dark" /></a>
 
-
+</div>
 <br/>
 
 #### 🚀 Frameworks, Ecosystems & Tools
