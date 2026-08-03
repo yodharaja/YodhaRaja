@@ -76,7 +76,7 @@
 </td>
 <td align="center">
 
-**🛠️ DevOps & Developer Tools**
+**🛠️ Developer Tools**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark" /></a>
 
