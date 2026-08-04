@@ -29,7 +29,7 @@
 </div>
 <br/>
 
-### 🚀 Frameworks, Ecosystems & Tools
+### 🚀 Frameworks & Tools
 
 <div align="center">
 
