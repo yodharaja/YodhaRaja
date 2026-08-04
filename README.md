@@ -60,7 +60,7 @@
 </td>
 <td align="center">
 
-**📱 Mobile Development **
+**📱 Mobile Development**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" /></a>
 
@@ -69,7 +69,7 @@
 <tr>
 <td align="center">
 
-**💾 Databases **
+**💾 Databases**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" /></a>
 
