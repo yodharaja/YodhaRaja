@@ -71,7 +71,7 @@
 
 **💾 Databases**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=supabase,mongodb,firebase&theme=dark" /></a>
 
 </td>
 <td align="center">
