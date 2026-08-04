@@ -60,7 +60,7 @@
 </td>
 <td align="center">
 
-**📱 Mobile Development**
+**📱 Android Dev**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" /></a>
 
