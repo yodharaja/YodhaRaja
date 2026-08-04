@@ -37,7 +37,7 @@
 <tr>
 <td align="center" width="50%">
 
-**🌐 Frontend Engineering**
+**🌐 Frontend**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /></a>
 
@@ -53,7 +53,7 @@
 <tr>
 <td align="center">
 
-**🤖 AI / Machine Learning**
+**🤖 AI / ML**
 
 <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" /></a>
 
@@ -69,7 +69,7 @@
 <tr>
 <td align="center">
 
-**💾 Databases & Cloud**
+**💾 Databases **
 
 <a href="#"><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark" /></a>
 
