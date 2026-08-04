@@ -46,7 +46,7 @@
 
 **⚙️ Backend & APIs**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,cloudflare&theme=dark" /></a>
 
 </td>
 </tr>
