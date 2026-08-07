@@ -62,7 +62,7 @@
 
 **📱 Android Dev**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin&theme=dark" /></a>
 
 </td>
 </tr>
