@@ -78,7 +78,7 @@
 
 **🛠️ Developer Tools**
 
-<a href="#"><img src="https://skillicons.dev/icons?i=git,docker,vscode&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></a>
 
 </td>
 </tr>
